@@ -1,0 +1,14 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "wilders colours",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "author": "pete",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
